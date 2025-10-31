@@ -105,10 +105,13 @@ mkdir -p quants
 ```
 The above code runs a script to generate feature counts for each file in a loop fashion.
 <img width="1156" height="920" alt="Screenshot 2025-10-04 233323" src="https://github.com/user-attachments/assets/04afd812-7e18-4dcd-a5f1-303f2d4bebb0" />
+
 # Generating counts matrix from feature counts 
 This entire section was done on google colab. this file will be links in the codes section.
-# Gene annotation of data.
+
+# Gene annotation of data
 assigning a gene prototype is an important step before R analysis.
+
 ## R analysis for differential gene expression. 
 The entire R analysis is pinned under the R section. Results and command line are available there.
 
