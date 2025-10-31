@@ -1,8 +1,8 @@
 # Bulk_RNA_Seq
 This Project has been produced to demonstrate A simple yet reproducible bulk RNA seq pipeline.
 Project title - Bulk_RMA_seq_Analysis
-Created by - Shreshtha Shukla 
-Database - The dataset used was taken from [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE158550) (accession id-GSE158550).Reference paper from [Nature communications](https://www.nature.com/articles/s41467-018-08133-6#content).
+Created by - Shreshtha Shukla.  
+ Database - The dataset used was taken from [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE158550) (accession id-GSE158550).Reference paper from [Nature communications](https://www.nature.com/articles/s41467-018-08133-6#content).
 
  ## Project Workflow
 *This repository documents a beginner-friendly, reproducible Bulk RNA-Seq analysis workflow (download → QC → trimming → alignment → QC → counting → counts matrix preparation). The repository stores commands exactly as executed by the author, brief explanations, small result files (counts, QC HTMLs), scripts (text) and screenshots of terminal outputs so learners can reproduce the pipeline.*
