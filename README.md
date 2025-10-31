@@ -7,7 +7,7 @@ Created by - Shreshtha Shukla.
  ## Project Workflow
 *This repository documents a beginner-friendly, reproducible Bulk RNA-Seq analysis workflow (download → QC → trimming → alignment → QC → counting → counts matrix preparation). The repository stores commands exactly as executed by the author, brief explanations, small result files (counts, QC HTMLs), scripts (text) and screenshots of terminal outputs so learners can reproduce the pipeline.*
 ## Step by step process 
-Our goal is to find differentially expressed genes in response to hypoxia for the LNCaP cell lines. original database includes LNCap and PC3 cell lines for normoxia and hupoxia conditions but due to minimal storage, we have performed it on LNCap cell line exclusively. The entire pipeline has been divided into two major parts which is preprocessing and QC of data and expression analysis using R studio.
+Our goal is to find differentially expressed genes in response to hypoxia for the LNCaP cell lines. original database includes LNCap and PC3 cell lines for normoxia and hypoxia conditions but due to minimal storage, we have performed it on LNCap cell line exclusively. The entire pipeline has been divided into two major parts which is preprocessing and QC of data and expression analysis using R studio.
 ## Preprocessing, extraction of data and Quality control raw files.
 # Installing SRA toolkit and fetching the SRR files.
 ```bash
