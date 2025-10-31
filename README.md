@@ -1,7 +1,7 @@
 # Bulk_RNA_Seq
 This Project has been produced to demonstrate A simple yet reproducible bulk RNA seq pipeline.
 Project title - Bulk_RMA_seq_Analysis
-Created by - Shreshtha Shukla
+Created by - Shreshtha Shukla 
 Database - The dataset used was taken from [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE158550) (accession id-GSE158550).Reference paper from [Nature communications](https://www.nature.com/articles/s41467-018-08133-6#content).
 
  ## Project Workflow
